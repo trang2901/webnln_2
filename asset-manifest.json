@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/webnln_2/static/css/main.a8090a4c.css",
+    "main.js": "/webnln_2/static/js/main.a6c7313a.js",
+    "static/media/background.jpg": "/webnln_2/static/media/background.915a03ef10583305f434.jpg",
+    "static/media/about-page.jpg": "/webnln_2/static/media/about-page.c7983fe78b0f7fdd031b.jpg",
+    "static/media/BLOG7.jpg": "/webnln_2/static/media/BLOG7.6e44bb2ef2487b10c308.jpg",
+    "static/media/h3.jpg": "/webnln_2/static/media/h3.53c04f79d0013d7eb5a5.jpg",
+    "static/media/senda.jpg": "/webnln_2/static/media/senda.2336a88ee5473ad8ef96.jpg",
+    "static/media/phoingang.jpg": "/webnln_2/static/media/phoingang.87ac19c6c52bfff34fb7.jpg",
+    "static/media/blog3.jpg": "/webnln_2/static/media/blog3.cb7406fa57814d07c723.jpg",
+    "static/media/dolar.jpg": "/webnln_2/static/media/dolar.eadee789f7275e6f0638.jpg",
+    "static/media/traubacamthach.jpg": "/webnln_2/static/media/traubacamthach.41b1f91c2ffce66a5291.jpg",
+    "static/media/dabupdo.jpg": "/webnln_2/static/media/dabupdo.2552ff71ffac223aa70e.jpg",
+    "static/media/logo.png": "/webnln_2/static/media/logo.38152c20eca3489ab8db.png",
+    "static/media/logo.svg": "/webnln_2/static/media/logo.221f6b13e6eaaad5828372464f73a1a4.svg",
+    "index.html": "/webnln_2/index.html",
+    "main.a8090a4c.css.map": "/webnln_2/static/css/main.a8090a4c.css.map",
+    "main.a6c7313a.js.map": "/webnln_2/static/js/main.a6c7313a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8090a4c.css",
+    "static/js/main.a6c7313a.js"
+  ]
+}
